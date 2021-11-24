@@ -1,6 +1,6 @@
 [![N|Solid](https://bobit.us/wp-content/uploads/2021/04/bobit-logo.png)](https://bobit37.github.io/Resume/)
 
-# Scala Functional Prograaming for Beginners
+# Scala Functional Programing for Beginners
 
 it can be found in this repository core Scala functional programming topics
 
